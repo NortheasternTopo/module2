@@ -4,13 +4,13 @@
     .thumb:hover { fill: rgba(0, 123, 255, 0.25); }
   </style>
   <image href="01_A_SymetricBalance.jpg" width="2048" height="907" />
-  <rect class="thumb" x="0" y="0" width="738" height="907" onclick="window.open('18.html', '_blank')">
-    <title>Northwest Coast mask (N.D.)</title>
+  <rect class="thumb" x="0" y="0" width="738" height="907" onclick="window.open('34.html', '_blank')">
+    <title>Brabant, J. (1995). Kwaguilth Sun Mask</title>
   </rect>
-  <rect class="thumb" x="738" y="0" width="642" height="907" onclick="window.open('19.html', '_blank')">
-    <title>O'Keeffe, G. (1923). Grey Line with Lavender and Yellow</title>
+  <rect class="thumb" x="738" y="0" width="642" height="907" onclick="window.open('35.html', '_blank')">
+    <title>O’Keeffe, G. (1923). Grey lines with black, blue and yellow</title>
   </rect>
-  <rect class="thumb" x="1380" y="0" width="668" height="907" onclick="window.open('20.html', '_blank')">
-    <title>Kunz, C. (1975). Akari poster</title>
+  <rect class="thumb" x="1380" y="0" width="668" height="907" onclick="window.open('36.html', '_blank')">
+    <title>Müller-Brockmann, J. (1975). Akari</title>
   </rect>
 </svg>
