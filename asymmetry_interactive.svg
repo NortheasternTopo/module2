@@ -3,7 +3,7 @@
     .thumb { fill: transparent; cursor: pointer; }
     .thumb:hover { fill: rgba(0, 123, 255, 0.25); }
   </style>
-  <image href="37_AsymetricBalance.jpg" width="2048" height="907" />
+  <image href="37_Asymetric_Balance.jpg" width="2048" height="907" />
   <rect class="thumb" x="0" y="0" width="1385" height="907" onclick="window.open('37.html', '_blank')">
     <title>Katsushika, H. (1831). The Great Wave off Kanagawa</title>
   </rect>
