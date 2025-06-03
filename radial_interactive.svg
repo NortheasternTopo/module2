@@ -3,11 +3,14 @@
     .thumb { fill: transparent; cursor: pointer; }
     .thumb:hover { fill: rgba(0, 123, 255, 0.25); }
   </style>
-  <image href="37_AsymetricBalance.jpg" width="2048" height="907" />
-  <rect class="thumb" x="0" y="0" width="1385" height="907" onclick="window.open('37.html', '_blank')">
-    <title>Katsushika, H. (1831). The Great Wave off Kanagawa</title>
+  <image href="39_Radial_Balance.jpg" width="2048" height="907" />
+  <rect class="thumb" x="0" y="0" width="694" height="907" onclick="window.open('39.html', '_blank')">
+    <title>M.C. Escher (1960). Circle Limit IV (Heaven and Hell)</title>
   </rect>
-  <rect class="thumb" x="1385" y="0" width="663" height="907" onclick="window.open('38.html', '_blank')">
-    <title>Müller-Brockmann, J. (1958). Musica Viva poster</title>
+  <rect class="thumb" x="694" y="0" width="724" height="907" onclick="window.open('40.html', '_blank')">
+    <title>Namgyal Monastery. Sand Mandala</title>
+  </rect>
+  <rect class="thumb" x="1418" y="0" width="630" height="907" onclick="window.open('41.html', '_blank')">
+    <title>Müller-Brockmann, J. (1955). Beethoven</title>
   </rect>
 </svg>
