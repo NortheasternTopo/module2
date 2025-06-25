@@ -1,22 +1,25 @@
-<svg viewBox="0 0 2048 768" width="100%" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 2048 1075" width="100%" xmlns="http://www.w3.org/2000/svg">
   <style>
     .thumb { fill: transparent; cursor: pointer; }
     .thumb:hover { fill: rgba(0, 123, 255, 0.25); }
   </style>
-  <image href="Organization_Collage.jpg" width="2048" height="768" />
+  <image href="Organization_Collage.jpg" width="2048" height="1075" />
+
   <!-- Row 1 -->
-  <rect class="thumb" x="0" y="0" width="512" height="256" onclick="window.open('42.html', '_blank')"><title>Unknown. (c. 1505). Sun Stone.</title></rect>
-  <rect class="thumb" x="512" y="0" width="512" height="256" onclick="window.open('43.html', '_blank')"><title>Albers, J. (1975). Mitered squares.</title></rect>
-  <rect class="thumb" x="1024" y="0" width="512" height="256" onclick="window.open('44.html', '_blank')"><title>Unknown. (c. 1100). Girih Islamic pattern.</title></rect>
-  <rect class="thumb" x="1536" y="0" width="512" height="256" onclick="window.open('45.html', '_blank')"><title>Molnar, V. (1983). Lignes ou forms.</title></rect>
+  <rect class="thumb" x="0" y="0" width="512" height="358.33" onclick="window.open('01.html', '_blank')"><title>Mexica. (c. 1505). Sun Stone.</title></rect>
+  <rect class="thumb" x="512" y="0" width="512" height="358.33" onclick="window.open('02.html', '_blank')"><title>Albers, J. (1975). Mitered squares.</title></rect>
+  <rect class="thumb" x="1024" y="0" width="512" height="358.33" onclick="window.open('03.html', '_blank')"><title>Unknown. (c. 1100). Girih Islamic pattern.</title></rect>
+  <rect class="thumb" x="1536" y="0" width="512" height="358.33" onclick="window.open('04.html', '_blank')"><title>Molnar, V. (1983). Lignes ou forms.</title></rect>
+
   <!-- Row 2 -->
-  <rect class="thumb" x="0" y="256" width="512" height="256" onclick="window.open('46.html', '_blank')"><title>Young, D. (2014). St Helen's Church on Lundy Island.</title></rect>
-  <rect class="thumb" x="512" y="256" width="512" height="256" onclick="window.open('47.html', '_blank')"><title>Unknown artist. (n.d.). Golden spiral pentagram.</title></rect>
-  <rect class="thumb" x="1024" y="256" width="512" height="256" onclick="window.open('48.html', '_blank')"><title>Close, C. (2005). Self-portrait.</title></rect>
-  <rect class="thumb" x="1536" y="256" width="512" height="256" onclick="window.open('49.html', '_blank')"><title>Leonardo da Vinci. (c. 1490). Vitruvian Man.</title></rect>
+  <rect class="thumb" x="0" y="358.33" width="512" height="358.33" onclick="window.open('05.html', '_blank')"><title>Young, D. (2014). St Helen's Church on Lundy Island.</title></rect>
+  <rect class="thumb" x="512" y="358.33" width="512" height="358.33" onclick="window.open('06.html', '_blank')"><title>Unknown artist. (n.d.). Golden spiral pentagram.</title></rect>
+  <rect class="thumb" x="1024" y="358.33" width="512" height="358.33" onclick="window.open('07.html', '_blank')"><title>Close, C. (2005). Self-portrait.</title></rect>
+  <rect class="thumb" x="1536" y="358.33" width="512" height="358.33" onclick="window.open('08.html', '_blank')"><title>Leonardo da Vinci. (c. 1490). Vitruvian Man.</title></rect>
+
   <!-- Row 3 -->
-  <rect class="thumb" x="0" y="512" width="512" height="256" onclick="window.open('50.html', '_blank')"><title>Freeman, D. (2017). Spiral stairs.</title></rect>
-  <rect class="thumb" x="512" y="512" width="512" height="256" onclick="window.open('51.html', '_blank')"><title>Unknown. (c. 1250 BCE). Book of the Dead.</title></rect>
-  <rect class="thumb" x="1024" y="512" width="512" height="256" onclick="window.open('52.html', '_blank')"><title>Van Doesburg, T. (1924). Counter-Composition V.</title></rect>
-  <rect class="thumb" x="1536" y="512" width="512" height="256" onclick="window.open('53.html', '_blank')"><title>Gamboa Naon, M. (2018). Bbccclll.</title></rect>
+  <rect class="thumb" x="0" y="716.66" width="512" height="358.33" onclick="window.open('09.html', '_blank')"><title>Freeman, D. (2017). Spiral stairs.</title></rect>
+  <rect class="thumb" x="512" y="716.66" width="512" height="358.33" onclick="window.open('10.html', '_blank')"><title>Unknown. (c. 1250 BCE). Book of the Dead.</title></rect>
+  <rect class="thumb" x="1024" y="716.66" width="512" height="358.33" onclick="window.open('11.html', '_blank')"><title>Van Doesburg, T. (1924). Counter-Composition V.</title></rect>
+  <rect class="thumb" x="1536" y="716.66" width="512" height="358.33" onclick="window.open('12.html', '_blank')"><title>Gamboa Naon, M. (2018). Bbccclll.</title></rect>
 </svg>
