@@ -3,11 +3,14 @@
     .thumb { fill: transparent; cursor: pointer; }
     .thumb:hover { fill: rgba(0, 123, 255, 0.25); }
   </style>
-  <image href="37_AsymetricBalance.jpg" width="2048" height="907" />
-  <rect class="thumb" x="0" y="0" width="1385" height="907" onclick="window.open('37.html', '_blank')">
-    <title>Katsushika, H. (1831). The Great Wave off Kanagawa</title>
+  <image href="42_Contrast_painting.jpg" width="2000" height="629" />
+  <rect class="thumb" x="0" y="0" width="565" height="629" onclick="window.open('42.html', '_blank')">
+    <title>Fouquet, J. (1452). Virgin and Child Surrounded by Angels</title>
   </rect>
-  <rect class="thumb" x="1385" y="0" width="663" height="907" onclick="window.open('38.html', '_blank')">
-    <title>Müller-Brockmann, J. (1958). Musica Viva poster</title>
+  <rect class="thumb" x="565" y="0" width="487" height="629" onclick="window.open('43.html', '_blank')">
+    <title>Magritte, R. (1954). The Empire of Light</title>
+  </rect>
+   <rect class="thumb" x="1052" y="0" width="948" height="629" onclick="window.open('44.html', '_blank')">
+    <title>Matisse, H. (1910). Dance</title>
   </rect>
 </svg>
