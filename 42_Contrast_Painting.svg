@@ -3,7 +3,7 @@
     .thumb { fill: transparent; cursor: pointer; }
     .thumb:hover { fill: rgba(0, 123, 255, 0.25); }
   </style>
-  <image href="42_Contrast_painting.jpg" width="2000" height="629" />
+  <image href="42_Contrast_Painting.jpg" width="2000" height="629" />
   <rect class="thumb" x="0" y="0" width="565" height="629" onclick="window.open('42.html', '_blank')">
     <title>Fouquet, J. (1452). Virgin and Child Surrounded by Angels</title>
   </rect>
