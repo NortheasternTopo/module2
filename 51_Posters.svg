@@ -5,7 +5,7 @@
   </style>
   <image href="51_Posters.jpg" width="2500" height="1256" />
   <rect class="thumb" x="0" y="0" width="685" height="1256" onclick="window.open('51.html', '_blank')">
-    <title>Beggarstaff, J. & W. (1894). Hamlet</title>
+    <title>Beggarstaff, J. and W. (1894). Hamlet</title>
   </rect>
   <rect class="thumb" x="685" y="0" width="934" height="1256" onclick="window.open('52.html', '_blank')">
     <title>Kastel, R. (1974). Jaws</title>
