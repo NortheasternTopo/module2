@@ -1,16 +1,16 @@
-<svg viewBox="0 0 2000 629" width="100%" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 2500 1181" width="100%" xmlns="http://www.w3.org/2000/svg">
   <style>
     .thumb { fill: transparent; cursor: pointer; }
     .thumb:hover { fill: rgba(0, 123, 255, 0.25); }
   </style>
-  <image href="42_Contrast_Painting.jpg" width="2000" height="629" />
-  <rect class="thumb" x="0" y="0" width="565" height="629" onclick="window.open('42.html', '_blank')">
-    <title>Fouquet, J. (1452). Virgin and Child Surrounded by Angels</title>
+  <image href="54_ITS.jpg" width="2500" height="1181" />
+  <rect class="thumb" x="0" y="0" width="832" height="1181" onclick="window.open('54.html', '_blank')">
+    <title>Ruder, E. (1954). Die gute Form</title>
   </rect>
-  <rect class="thumb" x="565" y="0" width="487" height="629" onclick="window.open('43.html', '_blank')">
-    <title>Magritte, R. (1954). The Empire of Light</title>
+  <rect class="thumb" x="832" y="0" width="847" height="1181" onclick="window.open('55.html', '_blank')">
+    <title>Müller-Brockmann, J. (1958). Das freundliche Handzeichen</title>
   </rect>
-   <rect class="thumb" x="1052" y="0" width="948" height="629" onclick="window.open('44.html', '_blank')">
-    <title>Matisse, H. (1910). Dance</title>
+   <rect class="thumb" x="1679" y="0" width="823" height="1181" onclick="window.open('56.html', '_blank')">
+    <title>Neuburg, H. (1958). Konstruktive Grafik</title>
   </rect>
 </svg>
