@@ -3,11 +3,11 @@
     .thumb { fill: transparent; cursor: pointer; }
     .thumb:hover { fill: rgba(0, 123, 255, 0.25); }
   </style>
-  <image href="69_Architecture.jpg" width="2000" height="629" />
+  <image href="69_Architecture.jpg" width="2000" height="662" />
   <rect class="thumb" x="0" y="0" width="496" height="662" onclick="window.open('69.html', '_blank')">
     <title>Jameh Mosque of Tabriz (11th–13th century).</title>
   </rect>
-  <rect class="thumb" x="496" y="0" width="487" height="529" onclick="window.open('70.html', '_blank')">
+  <rect class="thumb" x="496" y="0" width="487" height="662" onclick="window.open('70.html', '_blank')">
     <title>Black, V. (2011). Urban Pattern</title>
   </rect>
    <rect class="thumb" x="1025" y="0" width="975" height="662" onclick="window.open('71.html', '_blank')">
