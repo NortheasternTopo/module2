@@ -3,7 +3,7 @@
     .thumb { fill: transparent; cursor: pointer; }
     .thumb:hover { fill: rgba(0, 123, 255, 0.25); }
   </style>
-  <image href="64_Marilyn.jpg" width="2000" height="1000" />
+  <image href="Marilyn.jpg" width="2000" height="1000" />
   <rect class="thumb" x="0" y="0" width="2000" height="1000" onclick="window.open('64.html', '_blank')">
     <title>Warhol, A. (1967). Marilyn Monroe</title>
   </rect>
