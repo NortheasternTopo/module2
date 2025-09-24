@@ -1,16 +1,16 @@
-<svg viewBox="0 0 2000 629" width="100%" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 2000 1797" width="100%" xmlns="http://www.w3.org/2000/svg">
   <style>
     .thumb { fill: transparent; cursor: pointer; }
     .thumb:hover { fill: rgba(0, 123, 255, 0.25); }
   </style>
-  <image href="42_Contrast_Painting.jpg" width="2000" height="629" />
-  <rect class="thumb" x="0" y="0" width="565" height="629" onclick="window.open('42.html', '_blank')">
-    <title>Fouquet, J. (1452). Virgin and Child Surrounded by Angels</title>
+  <image href="79_Masters.jpg" width="2000" height="1797" />
+  <rect class="thumb" x="0" y="0" width="2000" height="980" onclick="window.open('79.html', '_blank')">
+    <title>da Vinci, L. (1495–1498). The Last Supper</title>
   </rect>
-  <rect class="thumb" x="565" y="0" width="487" height="629" onclick="window.open('43.html', '_blank')">
-    <title>Magritte, R. (1954). The Empire of Light</title>
+  <rect class="thumb" x="0" y="980" width="1000" height="817" onclick="window.open('80.html', '_blank')">
+    <title>Corot, J.B.C. (c. 1865). A gust of Wind</title>
   </rect>
-   <rect class="thumb" x="1052" y="0" width="948" height="629" onclick="window.open('44.html', '_blank')">
-    <title>Matisse, H. (1910). Dance</title>
+   <rect class="thumb" x="1000" y="980" width="1000" height="817" onclick="window.open('81.html', '_blank')">
+    <title>van Gogh, V. (1889). The Starry Night</title>
   </rect>
 </svg>
