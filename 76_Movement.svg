@@ -5,12 +5,12 @@
   </style>
   <image href="76_Movement.jpg" width="2000" height="1195" />
   <rect class="thumb" x="0" y="0" width="1227" height="597" onclick="window.open('76.html', '_blank')">
-    <title>Fouquet, J. (1452). Virgin and Child Surrounded by Angels</title>
+    <title>Unknown. (c. 30,000 BCE). Chauvet Cave paintings</title>
   </rect>
   <rect class="thumb" x="0" y="597" width="1227" height="597" onclick="window.open('77.html', '_blank')">
-    <title>Magritte, R. (1954). The Empire of Light</title>
+    <title>Unknown. (c. 2100 BCE). Stela of Heku</title>
   </rect>
    <rect class="thumb" x="1227" y="0" width="773" height="1195" onclick="window.open('78.html', '_blank')">
-    <title>Matisse, H. (1910). Dance</title>
+    <title>Unknown. (c. 250 CE). Ludovisi Battle Sarcophagus</title>
   </rect>
 </svg>
