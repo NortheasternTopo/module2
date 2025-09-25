@@ -1,16 +1,19 @@
-<svg viewBox="0 0 2000 629" width="100%" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 2000 620" width="100%" xmlns="http://www.w3.org/2000/svg">
   <style>
     .thumb { fill: transparent; cursor: pointer; }
     .thumb:hover { fill: rgba(0, 123, 255, 0.25); }
   </style>
-  <image href="42_Contrast_Painting.jpg" width="2000" height="629" />
-  <rect class="thumb" x="0" y="0" width="565" height="629" onclick="window.open('42.html', '_blank')">
-    <title>Fouquet, J. (1452). Virgin and Child Surrounded by Angels</title>
+  <image href="97_Power.jpg" width="2000" height="620" />
+  <rect class="thumb" x="0" y="0" width="670" height="620" onclick="window.open('97.html', '_blank')">
+    <title>Khafre (attributed). (c. 2500 BCE). Great Sphinx of Giza</title>
   </rect>
-  <rect class="thumb" x="565" y="0" width="487" height="629" onclick="window.open('43.html', '_blank')">
-    <title>Magritte, R. (1954). The Empire of Light</title>
+  <rect class="thumb" x="670" y="0" width="499" height="620" onclick="window.open('98.html', '_blank')">
+    <title>Bramante, D., Michelangelo, B., Maderno, C., & Bernini, G. (1506–1626). St. Peter's Basilica</title>
   </rect>
-   <rect class="thumb" x="1052" y="0" width="948" height="629" onclick="window.open('44.html', '_blank')">
-    <title>Matisse, H. (1910). Dance</title>
+   <rect class="thumb" x="1168" y="0" width="409" height="620" onclick="window.open('99.html', '_blank')">
+    <title>Thornton, W., & Latrobe, B. H. (1793–1800s). United States Capitol Building</title>
+  </rect>
+   <rect class="thumb" x="1577" y="0" width="423" height="620" onclick="window.open('100.html', '_blank')">
+    <title>Pelli, C. (1998). Petronas Towers</title>
   </rect>
 </svg>
