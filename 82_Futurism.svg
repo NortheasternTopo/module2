@@ -1,16 +1,16 @@
-<svg viewBox="0 0 2000 629" width="100%" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 2000 599" width="100%" xmlns="http://www.w3.org/2000/svg">
   <style>
     .thumb { fill: transparent; cursor: pointer; }
     .thumb:hover { fill: rgba(0, 123, 255, 0.25); }
   </style>
-  <image href="42_Contrast_Painting.jpg" width="2000" height="629" />
-  <rect class="thumb" x="0" y="0" width="565" height="629" onclick="window.open('42.html', '_blank')">
-    <title>Fouquet, J. (1452). Virgin and Child Surrounded by Angels</title>
+  <image href="82_Futurism.jpg" width="2000" height="599" />
+  <rect class="thumb" x="0" y="0" width="601" height="599" onclick="window.open('82.html', '_blank')">
+    <title>Marinetti, F. (1919). A Tumultuous Assembly. Numerical Sensibility</title>
   </rect>
-  <rect class="thumb" x="565" y="0" width="487" height="629" onclick="window.open('43.html', '_blank')">
-    <title>Magritte, R. (1954). The Empire of Light</title>
+  <rect class="thumb" x="601" y="0" width="549" height="599" onclick="window.open('83.html', '_blank')">
+    <title>Boccioni, U. (1913). Unique Forms of Continuity in Space</title>
   </rect>
-   <rect class="thumb" x="1052" y="0" width="948" height="629" onclick="window.open('44.html', '_blank')">
-    <title>Matisse, H. (1910). Dance</title>
+   <rect class="thumb" x="1150" y="0" width="850" height="599" onclick="window.open('84.html', '_blank')">
+    <title>Balla, G. (1912). Dynamism of a Dog on a Leash</title>
   </rect>
 </svg>
