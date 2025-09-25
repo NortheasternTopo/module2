@@ -1,16 +1,19 @@
-<svg viewBox="0 0 2000 629" width="100%" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 2000 800" width="100%" xmlns="http://www.w3.org/2000/svg">
   <style>
     .thumb { fill: transparent; cursor: pointer; }
     .thumb:hover { fill: rgba(0, 123, 255, 0.25); }
   </style>
-  <image href="42_Contrast_Painting.jpg" width="2000" height="629" />
-  <rect class="thumb" x="0" y="0" width="565" height="629" onclick="window.open('42.html', '_blank')">
-    <title>Fouquet, J. (1452). Virgin and Child Surrounded by Angels</title>
+  <image href="42_Contrast_Painting.jpg" width="2000" height="800" />
+  <rect class="thumb" x="0" y="0" width="485" height="800" onclick="window.open('85.html', '_blank')">
+    <title>Duchamp, M. (1912). Nude Descending a Staircase, No. 2</title>
   </rect>
-  <rect class="thumb" x="565" y="0" width="487" height="629" onclick="window.open('43.html', '_blank')">
-    <title>Magritte, R. (1954). The Empire of Light</title>
+  <rect class="thumb" x="485" y="0" width="451" height="800" onclick="window.open('86.html', '_blank')">
+    <title>Albers, A. (1926). Black White Red</title>
   </rect>
-   <rect class="thumb" x="1052" y="0" width="948" height="629" onclick="window.open('44.html', '_blank')">
-    <title>Matisse, H. (1910). Dance</title>
+   <rect class="thumb" x="936" y="0" width="561" height="800" onclick="window.open('87.html', '_blank')">
+    <title>Pollock, J. (1947). Cathedral</title>
+  </rect>
+   <rect class="thumb" x="1495" y="0" width="505" height="800" onclick="window.open('88.html', '_blank')">
+    <title>Petyarre, G. (2009). Bush Medicine Leaves</title>
   </rect>
 </svg>
