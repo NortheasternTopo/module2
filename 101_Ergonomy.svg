@@ -1,16 +1,22 @@
-<svg viewBox="0 0 2000 629" width="100%" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 2000 570" width="100%" xmlns="http://www.w3.org/2000/svg">
   <style>
     .thumb { fill: transparent; cursor: pointer; }
     .thumb:hover { fill: rgba(0, 123, 255, 0.25); }
   </style>
-  <image href="42_Contrast_Painting.jpg" width="2000" height="629" />
-  <rect class="thumb" x="0" y="0" width="565" height="629" onclick="window.open('42.html', '_blank')">
-    <title>Fouquet, J. (1452). Virgin and Child Surrounded by Angels</title>
+  <image href="101_Ergonomy.jpg" width="2000" height="570" />
+  <rect class="thumb" x="0" y="0" width="412" height="570" onclick="window.open('101.html', '_blank')">
+    <title>da Vinci, L. (c. 1490). Vitruvian Man</title>
   </rect>
-  <rect class="thumb" x="565" y="0" width="487" height="629" onclick="window.open('43.html', '_blank')">
-    <title>Magritte, R. (1954). The Empire of Light</title>
+  <rect class="thumb" x="412" y="0" width="367" height="570" onclick="window.open('102.html', '_blank')">
+    <title>Dürer, A. (1528). Proportions of the Human Figure</title>
   </rect>
-   <rect class="thumb" x="1052" y="0" width="948" height="629" onclick="window.open('44.html', '_blank')">
-    <title>Matisse, H. (1910). Dance</title>
+   <rect class="thumb" x="778" y="0" width="569" height="570" onclick="window.open('103.html', '_blank')">
+    <title>Howard, E. (1902). Garden City plan</title>
+  </rect>
+    <rect class="thumb" x="1347" y="0" width="291" height="570" onclick="window.open('104.html', '_blank')">
+    <title>Le Corbusier. (1948). Modulor system diagram</title>
+  </rect>
+    <rect class="thumb" x="1638" y="0" width="362" height="570" onclick="window.open('105.html', '_blank')">
+    <title>Le Corbusier. (1952). Floor plan, Unité d’Habitation</title>
   </rect>
 </svg>
