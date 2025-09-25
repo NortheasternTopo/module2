@@ -1,16 +1,19 @@
-<svg viewBox="0 0 2000 629" width="100%" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 2000 576" width="100%" xmlns="http://www.w3.org/2000/svg">
   <style>
     .thumb { fill: transparent; cursor: pointer; }
     .thumb:hover { fill: rgba(0, 123, 255, 0.25); }
   </style>
-  <image href="42_Contrast_Painting.jpg" width="2000" height="629" />
-  <rect class="thumb" x="0" y="0" width="565" height="629" onclick="window.open('42.html', '_blank')">
-    <title>Fouquet, J. (1452). Virgin and Child Surrounded by Angels</title>
+  <image href="109_Exageration.jpg" width="2000" height="576" />
+  <rect class="thumb" x="0" y="0" width="490" height="576" onclick="window.open('109.html', '_blank')">
+    <title>Bacon, F. (1969). Self-Portrait</title>
   </rect>
-  <rect class="thumb" x="565" y="0" width="487" height="629" onclick="window.open('43.html', '_blank')">
-    <title>Magritte, R. (1954). The Empire of Light</title>
+  <rect class="thumb" x="490" y="0" width="536" height="576" onclick="window.open('110.html', '_blank')">
+    <title>Nishi, T. (2012). Discovering Columbus</title>
   </rect>
-   <rect class="thumb" x="1052" y="0" width="948" height="629" onclick="window.open('44.html', '_blank')">
-    <title>Matisse, H. (1910). Dance</title>
+   <rect class="thumb" x="1026" y="0" width="693" height="576" onclick="window.open('111.html', '_blank')">
+    <title>Mueck, R. (2006). A Girl</title>
+  </rect>
+   <rect class="thumb" x="1717" y="0" width="283" height="576" onclick="window.open('112.html', '_blank')">
+    <title>Khosravi, A. (2021). Siege</title>
   </rect>
 </svg>
