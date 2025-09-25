@@ -1,16 +1,19 @@
-<svg viewBox="0 0 2000 629" width="100%" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 2000 740" width="100%" xmlns="http://www.w3.org/2000/svg">
   <style>
     .thumb { fill: transparent; cursor: pointer; }
     .thumb:hover { fill: rgba(0, 123, 255, 0.25); }
   </style>
-  <image href="42_Contrast_Painting.jpg" width="2000" height="629" />
-  <rect class="thumb" x="0" y="0" width="565" height="629" onclick="window.open('42.html', '_blank')">
-    <title>Fouquet, J. (1452). Virgin and Child Surrounded by Angels</title>
+  <image href="89_Comics.jpg" width="2000" height="740" />
+  <rect class="thumb" x="0" y="0" width="515" height="740" onclick="window.open('89.html', '_blank')">
+    <title>Hokusai, K. (c. 1833). The Waterfall Where Yoshitsune Washed His Horse at Yoshino in Yamato Province</title>
   </rect>
-  <rect class="thumb" x="565" y="0" width="487" height="629" onclick="window.open('43.html', '_blank')">
-    <title>Magritte, R. (1954). The Empire of Light</title>
+  <rect class="thumb" x="515" y="0" width="508" height="740" onclick="window.open('90.html', '_blank')">
+    <title>van de Velde, H. (1898). Tropon</title>
   </rect>
-   <rect class="thumb" x="1052" y="0" width="948" height="629" onclick="window.open('44.html', '_blank')">
-    <title>Matisse, H. (1910). Dance</title>
+   <rect class="thumb" x="1025" y="0" width="467" height="740" onclick="window.open('91.html', '_blank')">
+    <title>Wilson, W. (1967). Grateful Dead at the Fillmore</title>
+  </rect>
+  <rect class="thumb" x="1491" y="0" width="509" height="740" onclick="window.open('92.html', '_blank')">
+    <title>Tezuka, O. (1952). Astro Boy</title>
   </rect>
 </svg>
