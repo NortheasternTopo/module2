@@ -3,7 +3,7 @@
     .thumb { fill: transparent; cursor: pointer; }
     .thumb:hover { fill: rgba(0, 123, 255, 0.25); }
   </style>
-  <image href="42_Contrast_Painting.jpg" width="2000" height="800" />
+  <image href="85_Modern.jpg" width="2000" height="800" />
   <rect class="thumb" x="0" y="0" width="485" height="800" onclick="window.open('85.html', '_blank')">
     <title>Duchamp, M. (1912). Nude Descending a Staircase, No. 2</title>
   </rect>
